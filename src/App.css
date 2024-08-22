@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@450&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.music{
+    background-color: #F5F9FA;
+    border: 1px solid #D3D3D3;
+}
+.music-list img{
+    aspect-ratio: 1/1;
+    height: 82px;
+}
+.music-list .btn{
+    border-radius: 50%;
+    height: 40px;
+    aspect-ratio: 1/1;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.music-list .music h6{
+    text-transform: uppercase;
+    font-size: large;
+    font-family: "Roboto", sans-serif;
+}
+.music-list .music p{
+    text-transform: capitalize;
+    font-family: "Oswald", sans-serif;
+}
+.music-list .music h3{
+    letter-spacing: 10px;
+    font-weight: 400;
+
+}
+.col-md-6{
+    margin: 0;
+    padding: 0;
+}

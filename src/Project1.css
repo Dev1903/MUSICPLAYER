@@ -1,0 +1,41 @@
+/* 
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    background-color: #06D001;
+    padding-top: 30px ;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+
+}
+.box{
+    height: 230px;
+    width: 190px;   
+    background-color: white;
+    text-align: center;
+
+}
+img{
+    padding-top: 3px;
+    height:130px;
+    width: auto;
+}
+.green{
+    color: #41B06E;
+    padding-top:5px ;
+    font-size: 11px;
+}
+span{
+    color: red;
+    text-decoration: line-through;
+}
+.price{
+    font-size: 13px;
+    padding-top: 5px;
+} */
